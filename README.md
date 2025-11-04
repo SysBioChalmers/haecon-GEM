@@ -25,16 +25,16 @@ This model was conextualized using RNAseq datasets that covers all the developme
 > Keywords are be separated by semicolons.
 > The `Model source` field contains the source(s) of the current model, eg existing GEMs. If possible, use the Markdown format to add the URL with the DOI. The (NCBI) taxonomy ID should be provided in the [format from identifiers.org](https://registry.identifiers.org/registry/taxonomy). For the genome identifier, please provide the ENA/GenBank/RefSeq identifier via *identifiers.org*, or from other sources such as PATRIC or KBase.  
 
-**Utilisation:**  Experimental data validation; multi-omics integrative analysis; _in silico_ motabolic analysis across develpment.<br>
-**Field:** metabolic-network reconstruction 
+**Utilisation:**  Experimental data validation; multi-omics integrative analysis; _in silico_ motabolic analysis across develpment.  
+**Field:** metabolic-network reconstruction   
 **Type of model:** {{ reconstruction; curated }}  
 **Model source:** {{ [YeastMetabolicNetwork](http://doi.org/10.1038/nbt1492) }}  
 **Omic source:** Genomics; Transcriptomics, Proteomics
 **Taxonomic name:** *Haemoncus contortus* 
 **Taxonomy ID:** {{ [taxonomy:559292](https://identifiers.org/taxonomy:559292) }}  
 **Genome ID:** {{ [insdc.gca:GCA_000146045.2](https://identifiers.org/insdc.gca:GCA_000146045.2)  }}  
-**Metabolic system:** General metabolism 
-**Tissue:**   Whole organism
+**Metabolic system:** General metabolism  
+**Tissue:**   Whole organism  
 **Bioreactor:**    
 **Cell type:**  
 **Cell line:**  
