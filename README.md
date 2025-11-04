@@ -33,9 +33,9 @@ This model was conextualized using RNAseq datasets that covers all the developme
 **Type of model:** Manually curated
 **Model source:**  [haeconGEM](http://doi.org/10.1038/nbt1492)  
 **Omic source:** Genomics; Transcriptomics, Proteomics
-**Taxonomic name:** *Haemoncus contortus* 
-**Taxonomy ID:** {{ [taxonomy: 6289)](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=6289) }}  
-**Genome ID:** {{ [insdc.gca:GCA_041937105.1](https://www.ncbi.nlm.nih.gov/bioproject/?term=haecon5)  }}  
+**Taxonomic name:** *Haemoncus contortus*  
+**Taxonomy ID:** [taxonomy: 6289)](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=6289)   
+**Genome ID:**  [insdc.gca: GCA_041937105.1](https://www.ncbi.nlm.nih.gov/bioproject/?term=haecon5)   
 **Metabolic system:** General metabolism  
 **Tissue:**   Whole organism  
 **Strain:** Haecon5  
@@ -58,4 +58,5 @@ Contributions are always welcome! Please read the [contributing guideline](.gith
 
 ### Contributors
 
-Code contributors are reported automatically by GitHub under [Contributors](https://github.com/{{organization or username}}/{{repository name}}/graphs/contributors), while other contributions come in as [Issues](https://github.com/{{organization or username}}/{{repository name}}/issues).
+* [Fabian Moreno-Avitia](https://www.chalmers.se/personer/avitia/) ([@fma91](https://github.com/fma91)), Chalmers University of Technology, Sweden  
+* [Eduard J. Kerkhoven](https://www.chalmers.se/en/staff/Pages/Eduard-Kerkhoven.aspx) ([@edkerk](https://github.com/edkerk)), Chalmers University of Technology, Sweden  
