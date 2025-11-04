@@ -6,7 +6,7 @@
 #### HaeconGEM decription
 
 HaeconGem is the first genome-scale metabolic model of the barber's pole worm, Haemoncus contortus.
-This model was cosntructed following an support-based consensus for reaction addtions, usinge the model HumanGEM and WormGEM as templates.
+This model was cosntructed following a support-based consensus orthologues selection for reaction addtions, usinge the model HumanGEM and WormGEM as templates.
 This model was conextualized using RNAseq datasets that covers all the developmental stages of this organism.
 
 
