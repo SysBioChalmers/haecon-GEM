@@ -6,7 +6,7 @@
 #### HaeconGEM decription
 
 HaeconGem is the first genome-scale metabolic model of the barber's pole worm, Haemoncus contortus.
-This model was cosntructed following a support-based consensus orthologues selection for reaction addtions, usinge the model HumanGEM and WormGEM as templates.
+This model was cosntructed following a support-based consensus orthologues selection ([suppOrth](https://github.com/fma91/SuppOrth))  for reaction addtions, usinge the model HumanGEM and WormGEM as templates.
 This model was conextualized using RNAseq datasets that covers all the developmental stages of this organism.
 
 
@@ -14,37 +14,36 @@ This model was conextualized using RNAseq datasets that covers all the developme
 
 #### Unpublished
 
-{{ provide the citation once available, for example:
-  > Lu, H., Li, F., Sánchez, B.J. et al (2019). A consensus S. cerevisiae metabolic model Yeast8 and its ecosystem for comprehensively probing cellular metabolism. Nat Commun 10, 3586 [doi:10.1038/s41467-019-11581-3](https://doi.org/10.1038/s41467-019-11581-3)
 
-}}
 
 
 #### Keywords
 
 > Keywords are be separated by semicolons.
-> The `Model source` field contains the source(s) of the current model, eg existing GEMs. If possible, use the Markdown format to add the URL with the DOI. The (NCBI) taxonomy ID should be provided in the [format from identifiers.org](https://registry.identifiers.org/registry/taxonomy). For the genome identifier, please provide the ENA/GenBank/RefSeq identifier via *identifiers.org*, or from other sources such as PATRIC or KBase.  
+> The `Model source` field contains the source(s) of the current model, eg existing GEMs. If possible, use the Markdown format to add the URL with the DOI. The (NCBI) taxonomy ID should be provided in the [format from identifiers.org](https://registry.identifiers.org/registry/taxonomy). For the genome identifier, please provide the ENA/GenBank/RefSeq identifier via *identifiers.org*, or from other sources such as PATRIC or KBase.
+
+**Model Description**
+
+|Taxonomy | Template Model | Reactions | Metabolites| Genes |
+|:-------:|:--------------:|:---------:|:----------:|:-----:|
+| *Haemoncon contortus* |[HaeconGEM](https://github.com/SysBioChalmers/haecon-GEM)|10495|7734|1219|
 
 **Utilisation:**  Experimental data validation; multi-omics integrative analysis; _in silico_ motabolic analysis across develpment.  
 **Field:** metabolic-network reconstruction   
-**Type of model:** {{ reconstruction; curated }}  
-**Model source:** {{ [YeastMetabolicNetwork](http://doi.org/10.1038/nbt1492) }}  
+**Type of model:** Manually curated
+**Model source:**  [haeconGEM](http://doi.org/10.1038/nbt1492)  
 **Omic source:** Genomics; Transcriptomics, Proteomics
 **Taxonomic name:** *Haemoncus contortus* 
-**Taxonomy ID:** {{ [taxonomy:559292](https://identifiers.org/taxonomy:559292) }}  
-**Genome ID:** {{ [insdc.gca:GCA_000146045.2](https://identifiers.org/insdc.gca:GCA_000146045.2)  }}  
+**Taxonomy ID:** {{ [taxonomy: 6289)](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=6289) }}  
+**Genome ID:** {{ [insdc.gca:GCA_041937105.1](https://www.ncbi.nlm.nih.gov/bioproject/?term=haecon5)  }}  
 **Metabolic system:** General metabolism  
 **Tissue:**   Whole organism  
-**Bioreactor:**    
-**Cell type:**  
-**Cell line:**  
-**Strain:** {{ S288C }}  
-**Condition:**  
+**Strain:** Haecon5  
 
 
 ### Installation
 
-{{ Be mindful of users who do not have a typical background - provide a clear overview of the required software. Also, there might be different requirements for users and collaborators. }}
+
 
 
 ### Usage
