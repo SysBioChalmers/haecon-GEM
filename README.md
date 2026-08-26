@@ -26,7 +26,7 @@ This model was conextualized using RNAseq datasets that covers all the developme
 
 |Taxonomy | Template Model | Reactions | Metabolites| Genes |
 |:-------:|:--------------:|:---------:|:----------:|:-----:|
-| *Haemoncon contortus* |[HaeconGEM](https://github.com/SysBioChalmers/haecon-GEM)|10495|7734|1219|
+| *Haemoncon contortus* |[HaeconGEM](https://github.com/SysBioChalmers/haecon-GEM)|11871|8207|1420|
 
 **Utilisation:**  Experimental data validation; multi-omics integrative analysis; _in silico_ motabolic analysis across develpment.  
 **Field:** metabolic-network reconstruction   
@@ -48,7 +48,7 @@ This model was conextualized using RNAseq datasets that covers all the developme
 
 ### Usage
 
-{{ Describe how to load and save the model. }}
+HaeconGEM follows format and structual conventions compatibls with Raven Toolbox and COBRA.
 
 
 ### Contributing
